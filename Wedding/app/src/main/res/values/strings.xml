@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Wedding</string>
+
+    <string name="full_name">Full Name</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="sigin">SIGIN</string>
+    <string name="login">LOGIN</string>
+
+    <string name="theme">THEMES</string>
+    <string name="cake">CAKE</string>
+    <string name="gallery">GALLERY</string>
+    <string name="budget">BUDGET</string>
+
+    <string name="tradition">TRADITION</string>
+    <string name="indoor">INDOOR</string>
+    <string name="outdoor">OUTDOOR</string>
+
+    <string name="budget1">IDR. Rp5.000.000 - Rp25.000.000</string>
+    <string name="budget2">IDR. Rp25.000.000 - Rp50.000.000</string>
+    <string name="budget3">IDR. Rp50.000.000 - Rp100.000.000</string>
+
+    <string name="dress">DRESS</string>
+    <string name="jawellary">JAWELLARY</string>
+    <string name="venue">VENUE</string>
+    <string name="decoration">DECORATION</string>
+
+    <string name="request">REQUEST</string>
+    <string name="details">MORE DETAILS</string>
+    <string name="proses">PROSES</string>
+
+    <string name="cake1">
+        Classic Vineyard Wedding\n
+        Rp25.000.000
+    </string>
+
+    <string name="cake2">
+        Not a Meringue in Sight
+        Rp35.000.000
+    </string>
+
+    <string name="dekor_sunda">
+        Adat Sunda\n
+        Rp50.000.000
+    </string>
+
+    <string name="dekor_jawa">
+        Adat Jawa\n
+        Rp55.000.000
+    </string>
+
+</resources>
